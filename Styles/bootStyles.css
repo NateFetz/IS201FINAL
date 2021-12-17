@@ -3,17 +3,12 @@ p{
 }
 
 img{
-    border: 5px solid white;
+    border: 5px solid black;
 }
 
 li{
     background-color: black;
     color: white;
-}
-
-.h1{
-    color: royalblue;
-    text-decoration: underline;
 }
 body{
     /*background-color: #555555;*/
